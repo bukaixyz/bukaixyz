@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bukaixyz
-- 👀 I’m interested in making websites ang iOS apps
-- 🌱 I’m currently learning javascript and Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... bukaixyz@outlook.com
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me  bukaixyz@outlook.com
 
 <!---
 bukaixyz/bukaixyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
